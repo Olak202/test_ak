@@ -1,3 +1,3 @@
 # test_ak
 
-to jest wpis testowy, i dodano poprawke 
+geodezja i geoinformatyka rządzi1111
