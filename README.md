@@ -1,3 +1,3 @@
 # test_ak
 
-to jest wpis testowy, i dodano poprawke 
+Projekt poświecony testowaniu technologii gitworkflow, w budowie kodu.
